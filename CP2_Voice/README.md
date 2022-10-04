@@ -3,7 +3,7 @@
 음성 데이터에서 melspectrogram->db와 MFCC를 통한 감정(`기쁨`, `슬픔`, `당황`, `분노`, `중립`)을 분류하는 모델을 각각 생성 후 **ensemble**
 
 ---
-# Result
+# Final Model Result
 ***model8*** 
 
 |parameters|num|
